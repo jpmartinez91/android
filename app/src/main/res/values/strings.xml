@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UTPL</string>
+    <string name="nuevo">Nuevo</string>
+    <string name="sincronozar">Sincronizar</string>
+    <string name="listar">Listar</string>
+    <string name="camara">Camara</string>
+</resources>
